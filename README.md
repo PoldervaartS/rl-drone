@@ -1,7 +1,11 @@
+## Reinforcement Learning based Movement in Unity
+
+This project aims to replicate and explore the use of Reinforcement Learning in unity from guiding to fine controls. 
+
+Leveraging the already built `mlagents` plugin for Unity and will likely expand to other learning algorithms once I finally get tired of PPO.
 
 
-Good commands
-
+# Development
 
 The code envrionment for this is Unity + UV.
 
